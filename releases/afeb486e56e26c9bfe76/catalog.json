@@ -1,0 +1,607 @@
+{
+  "host": {
+    "repository": "game-pages/lo-game-assets",
+    "baseUrl": "https://game-pages.github.io/lo-game-assets/"
+  },
+  "revision": "afeb486e56e26c9bfe76",
+  "directory": "releases/afeb486e56e26c9bfe76",
+  "remoteAssets": {
+    "images/01-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/01-bottom.webp",
+      "sha256": "27748b3814a8d23db184e1c6254fa4b911bc08b18b41b97d78ab746fc7c352c5",
+      "size": 77740,
+      "mime": "image/webp"
+    },
+    "images/01-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/01-top.webp",
+      "sha256": "3825abb71fbe93e17318dec3ade5f78726d5965035f4e20d13635acbc8072e8c",
+      "size": 77976,
+      "mime": "image/webp"
+    },
+    "images/02-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/02-bottom.webp",
+      "sha256": "9671f149c2e8fd4f5b332eed0b293e8bd562af1fa76d313e1fc90daf32637d20",
+      "size": 69944,
+      "mime": "image/webp"
+    },
+    "images/02-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/02-top.webp",
+      "sha256": "e484710b9f1967bf6367c01ccee925cbb378099b753ffe2f89369a651f29102f",
+      "size": 59042,
+      "mime": "image/webp"
+    },
+    "images/04-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/04-bottom.webp",
+      "sha256": "a3fb4bb1f035d56fd21ac1b348ce5a6dff8fff9498f7ef52c192a8ac4b9ea690",
+      "size": 80248,
+      "mime": "image/webp"
+    },
+    "images/04-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/04-top.webp",
+      "sha256": "20ac62a3b5cfb7311de96507b9b692fc4a030475137c828dd02c94b002b28bbc",
+      "size": 68636,
+      "mime": "image/webp"
+    },
+    "images/05-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/05-bottom.webp",
+      "sha256": "172c47cdd732c3a32fcc94cc1986156b550a3a970469fa36073cd92ec3783258",
+      "size": 76614,
+      "mime": "image/webp"
+    },
+    "images/05-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/05-top.webp",
+      "sha256": "131dc49c6e5617d76ebd9426bab0c7c0cc85fa6531bdb3f83ac4e50050b97e4b",
+      "size": 62020,
+      "mime": "image/webp"
+    },
+    "images/07-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/07-bottom.webp",
+      "sha256": "9c5da6907c5006a4debaf225a9957037ac475af56facd76897aa9863f820d77c",
+      "size": 98842,
+      "mime": "image/webp"
+    },
+    "images/07-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/07-top.webp",
+      "sha256": "d404201db71f6520c24764f950f494ee254db789e4b90d46b6b3b799ab76bcab",
+      "size": 111244,
+      "mime": "image/webp"
+    },
+    "images/08-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/08-bottom.webp",
+      "sha256": "1fbc61c19890dd73a47ee6f83bed55eb6a48331a45d74bc0edec5088232dce52",
+      "size": 61802,
+      "mime": "image/webp"
+    },
+    "images/08-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/08-top.webp",
+      "sha256": "8e6e174d1d6666af0b07516f80afd69a3463a88e431d89874f6fd9e113d03c71",
+      "size": 53236,
+      "mime": "image/webp"
+    },
+    "images/11-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/11-bottom.webp",
+      "sha256": "81e9cbec7789aad490fe8e07253ad5fe773310dc66b7ab1bf6e5a87d9a6c620a",
+      "size": 109902,
+      "mime": "image/webp"
+    },
+    "images/11-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/11-top.webp",
+      "sha256": "c270c6f47a587d850cdfc59973bd6a193e1178bdfc5287d864fefe697ed362d1",
+      "size": 95912,
+      "mime": "image/webp"
+    },
+    "images/12-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/12-bottom.webp",
+      "sha256": "e50b8f600ee7849876605e5a0c4212bb6c2df36a4e6d64bd878491d0f19e4a31",
+      "size": 45098,
+      "mime": "image/webp"
+    },
+    "images/12-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/12-top.webp",
+      "sha256": "cad6579626e7ca3103eba07e85a9ae4b9960c4aad88c06830849a9338adae724",
+      "size": 36236,
+      "mime": "image/webp"
+    },
+    "images/13-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/13-bottom.webp",
+      "sha256": "0a66ae3803767a42f720e47015a335ab29dca1bc119d6d2e3d127e20435b4c17",
+      "size": 78240,
+      "mime": "image/webp"
+    },
+    "images/13-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/13-top.webp",
+      "sha256": "9bc908ff8c667a7cd516e90804118ce8d78199e48fdc21e7ef808cc09b8427d5",
+      "size": 61250,
+      "mime": "image/webp"
+    },
+    "images/14-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/14-bottom.webp",
+      "sha256": "4224011a17726e91ec8b7e172223e11c44b7ab39f4ebd8ceac13b901b077bc77",
+      "size": 108932,
+      "mime": "image/webp"
+    },
+    "images/14-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/14-top.webp",
+      "sha256": "9de11074b5d9b38ebb24200a57ae82664a79bdef9c39fa3489b74e0c3105bfed",
+      "size": 97110,
+      "mime": "image/webp"
+    },
+    "images/15-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/15-bottom.webp",
+      "sha256": "e5bef3b2dbeb881f285b42bb40a168050d52bc8c55094bb6e653eb52a487bfb8",
+      "size": 101496,
+      "mime": "image/webp"
+    },
+    "images/15-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/15-top.webp",
+      "sha256": "c83bbbb54310a5908be0f52eb753ebb830e98d31d5a0df30f71fd48c03e2da9e",
+      "size": 96324,
+      "mime": "image/webp"
+    },
+    "images/17-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/17-bottom.webp",
+      "sha256": "eb4d4e649d19483895fd5b20eebef23106ea244c2d35c576e907597664065715",
+      "size": 85854,
+      "mime": "image/webp"
+    },
+    "images/17-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/17-top.webp",
+      "sha256": "53c4ab2656f9bd983985047103dd81b1eb927fb3e71b458213ee931fd9e13cba",
+      "size": 69996,
+      "mime": "image/webp"
+    },
+    "images/18-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/18-bottom.webp",
+      "sha256": "d4570bc5d8c7e9dcf5adc4ad4a81de065c20f41e8927b8af8b083c54cb6ac02b",
+      "size": 39714,
+      "mime": "image/webp"
+    },
+    "images/18-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/18-top.webp",
+      "sha256": "fb10477c17565dc8cdff50c72c4d32ac38475617a4986e1308e22a304735b5eb",
+      "size": 32240,
+      "mime": "image/webp"
+    },
+    "images/19-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/19-bottom.webp",
+      "sha256": "6357f91656cccc3581744f048c96de49d64415c2f8fb42538e9b95f76b46e3ea",
+      "size": 109208,
+      "mime": "image/webp"
+    },
+    "images/19-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/19-top.webp",
+      "sha256": "1d0ac63759b84104ec1c4086b71f47a6c2fb824cc555c9c1ce525c204d899f91",
+      "size": 89562,
+      "mime": "image/webp"
+    },
+    "images/20-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/20-bottom.webp",
+      "sha256": "794b44f1b52320f7bf8bd16d0bb96c32176126e4dffbe16ba805929871896a3f",
+      "size": 27378,
+      "mime": "image/webp"
+    },
+    "images/20-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/20-top.webp",
+      "sha256": "332a788c224f1e9fdf2926b372eadbe079f57ebf9810548bd28e6b98d7c0353c",
+      "size": 27910,
+      "mime": "image/webp"
+    },
+    "images/21-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/21-bottom.webp",
+      "sha256": "a548de9345313bc6a2fe0bc1cdbe941960f0b70851c8776c242b17b48e35b334",
+      "size": 48154,
+      "mime": "image/webp"
+    },
+    "images/21-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/21-top.webp",
+      "sha256": "8c1d314510366650e48c11088aee46568baa93bfeec6822c5b9b08a5fc532cf4",
+      "size": 66750,
+      "mime": "image/webp"
+    },
+    "images/22-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/22-bottom.webp",
+      "sha256": "cd6553f1156403f616b90f6de88584b3b2843c38303cb42d4634427ddff79c65",
+      "size": 28812,
+      "mime": "image/webp"
+    },
+    "images/22-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/22-top.webp",
+      "sha256": "ba0c7f185a4057a79ffc5d8e400d2221ebbc06904bd685f5f16b2476912de72f",
+      "size": 41238,
+      "mime": "image/webp"
+    },
+    "images/23-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/23-bottom.webp",
+      "sha256": "38f499b65edcf4c95e23e8a01a055e6f4d4b865048d330cf4f1978d819dc3c09",
+      "size": 43466,
+      "mime": "image/webp"
+    },
+    "images/23-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/23-top.webp",
+      "sha256": "449666d83ab941952a312f1d27382f448b2cf826d9a8e240c5a7392cbdca4fb2",
+      "size": 42398,
+      "mime": "image/webp"
+    },
+    "images/24-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/24-bottom.webp",
+      "sha256": "2f7a35a890f0a202dd0af7e90cae51c9d7f770770692723641d3904c8f73dbd2",
+      "size": 44258,
+      "mime": "image/webp"
+    },
+    "images/24-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/24-top.webp",
+      "sha256": "d8ca39eaf47a4e1a8e99ff2210d8fb71453381350386a0ce1a49ed2cf05258bf",
+      "size": 45638,
+      "mime": "image/webp"
+    },
+    "images/25-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/25-bottom.webp",
+      "sha256": "d0b176578e05a6b993fde1e5bea1a993213c6552f662af45ac502af984e5cbfb",
+      "size": 21430,
+      "mime": "image/webp"
+    },
+    "images/25-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/25-top.webp",
+      "sha256": "5fb7e0ad27938b1408ff0229e168e8a49b0082b1df41e4a9f51e640407a1b5a4",
+      "size": 50458,
+      "mime": "image/webp"
+    },
+    "images/26-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/26-bottom.webp",
+      "sha256": "c358c02b581f0694474e0b6896c60ff079d7e829aeaa39a339c6c638c2240599",
+      "size": 105620,
+      "mime": "image/webp"
+    },
+    "images/26-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/26-top.webp",
+      "sha256": "d46cf0cf40ea814b5384fd8f26046a86b1830d5359d21f79f3b295826d930151",
+      "size": 97966,
+      "mime": "image/webp"
+    },
+    "images/27-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/27-bottom.webp",
+      "sha256": "389ffd4f6a7b443a523e0541a490e1ac45213ecc8ef557c24ff24f0c26c5b2f7",
+      "size": 64692,
+      "mime": "image/webp"
+    },
+    "images/27-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/27-top.webp",
+      "sha256": "0d759ae77f5983fb1a6a0737463f5dd78495c69b83e662e0b98ea4e0e6df6a4e",
+      "size": 67974,
+      "mime": "image/webp"
+    },
+    "images/28-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/28-bottom.webp",
+      "sha256": "441cf499f9c48776f98a1d884f42ba8c6cb572b4827dd160d699ea3f5b645d97",
+      "size": 69126,
+      "mime": "image/webp"
+    },
+    "images/28-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/28-top.webp",
+      "sha256": "347a4076dfeb3d5dbc1fca0cc4cf86e02492a1b6d25ee686fa207e85e01538e7",
+      "size": 81536,
+      "mime": "image/webp"
+    },
+    "images/29-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/29-bottom.webp",
+      "sha256": "3b6811f7fba68f83357a75df28bdd72f15809b2824fbfa601f99220a7491b026",
+      "size": 92430,
+      "mime": "image/webp"
+    },
+    "images/29-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/29-top.webp",
+      "sha256": "cf261f7d65a4ec1247cec28dc78b242c16fde84f4fdd319be24d87d6b7c6d0b7",
+      "size": 89332,
+      "mime": "image/webp"
+    },
+    "images/30-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/30-bottom.webp",
+      "sha256": "a31fef496f11e0a2cfccaf87531cd6805f5e1a7961f9f4acd9596df93a5ab670",
+      "size": 91020,
+      "mime": "image/webp"
+    },
+    "images/30-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/30-top.webp",
+      "sha256": "81af7b96adef1ee1bccea54d1f5d573dd2b1291c6eded0631c45e49eadf8e05b",
+      "size": 87334,
+      "mime": "image/webp"
+    },
+    "images/31-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/31-bottom.webp",
+      "sha256": "3072545def916b78bed8de62bd887cf9d8967b812df355de4705d73de9afd218",
+      "size": 88796,
+      "mime": "image/webp"
+    },
+    "images/31-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/31-top.webp",
+      "sha256": "72b645cd612bbcc6917e3b12e814e10f25ea0103e94ccd616bc3d42d5457209f",
+      "size": 92628,
+      "mime": "image/webp"
+    },
+    "images/32-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/32-bottom.webp",
+      "sha256": "bfbc0a377cfdcc5ea048d5627a5087d8c98547fa3fb34447d537b892efc3e56c",
+      "size": 93512,
+      "mime": "image/webp"
+    },
+    "images/32-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/32-top.webp",
+      "sha256": "e40fdb7af6c435ff93994604900d722a9e64e28eee4256ed18b8573b35c8d9d6",
+      "size": 104878,
+      "mime": "image/webp"
+    },
+    "images/33-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/33-bottom.webp",
+      "sha256": "0f14954d51c356ffa2bd01e8cc7e5e9d5927ec766c26a7321b165e20ad974d94",
+      "size": 61582,
+      "mime": "image/webp"
+    },
+    "images/33-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/33-top.webp",
+      "sha256": "4a307ecc07a5cafa4f5b2b6954e39b1dd71c76204c4507566111fa0e6d6315f5",
+      "size": 63630,
+      "mime": "image/webp"
+    },
+    "images/34-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/34-bottom.webp",
+      "sha256": "b26fd5e3ec2686a67a28aaf5f4662c8ca4c1fa3a9331b7cd7dd12ac2d65342fb",
+      "size": 137642,
+      "mime": "image/webp"
+    },
+    "images/34-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/34-top.webp",
+      "sha256": "504e4e94a00997185f391181e8b70e964cad12d4f6ce630c9112d94baa87fd26",
+      "size": 142634,
+      "mime": "image/webp"
+    },
+    "images/35-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/35-bottom.webp",
+      "sha256": "f5034b0693a77ada36d350bf46c5885d1b4e0b1b6bcaff6ac5b9cdd17510b39d",
+      "size": 96662,
+      "mime": "image/webp"
+    },
+    "images/35-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/35-top.webp",
+      "sha256": "f1ffabd27757374cc33193e37a1f0fef1c50a21ee9cdc6285f291e2e658b9979",
+      "size": 110744,
+      "mime": "image/webp"
+    },
+    "images/36-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/36-bottom.webp",
+      "sha256": "6445bf27552f98e65531eefea6f70f2fe635fbfd37c9540f8981fd262fd3a8f8",
+      "size": 105450,
+      "mime": "image/webp"
+    },
+    "images/36-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/36-top.webp",
+      "sha256": "469f50d6089f4e70233c89cbf492e71b471d304a32dbd796e160022511d6a8ef",
+      "size": 121798,
+      "mime": "image/webp"
+    },
+    "images/37-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/37-bottom.webp",
+      "sha256": "e85f2eb8be75ed5162094bb6773818ec2cb2a76caeb39c767f953ac6f2096409",
+      "size": 117900,
+      "mime": "image/webp"
+    },
+    "images/37-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/37-top.webp",
+      "sha256": "c1c838ae1cb0d9b89728858e06b2e8908fccdb8500a5dd3acd0b8dc00e90427d",
+      "size": 131940,
+      "mime": "image/webp"
+    },
+    "images/38-bottom.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/38-bottom.webp",
+      "sha256": "5c5a4e64a1b1e52b85834f2a13f4f0c9bccf9199c1a21958629646af83597461",
+      "size": 132014,
+      "mime": "image/webp"
+    },
+    "images/38-top.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/images/38-top.webp",
+      "sha256": "29641190f11e81fbe6e5bc80c1fb0611047775ebd06c2c6710b096a3239d5215",
+      "size": 135798,
+      "mime": "image/webp"
+    },
+    "thumbs/01.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/01.webp",
+      "sha256": "57d31d24ecb2891787fa296c2dbd4ed36d14a3bed5dafb1a69862104c285b56e",
+      "size": 13412,
+      "mime": "image/webp"
+    },
+    "thumbs/02.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/02.webp",
+      "sha256": "4a9badaec396b907b169e432ee492c8d9cb9f46b43504b07589e2d356560fe8b",
+      "size": 8340,
+      "mime": "image/webp"
+    },
+    "thumbs/04.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/04.webp",
+      "sha256": "57c157f619ca14ae21de237b3ced50d147961a144eea3939c78f7545555d7608",
+      "size": 8836,
+      "mime": "image/webp"
+    },
+    "thumbs/05.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/05.webp",
+      "sha256": "f378a451c7d80caf17012a989ed99cd493bde24b691e46633d9827d185e94c77",
+      "size": 8976,
+      "mime": "image/webp"
+    },
+    "thumbs/07.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/07.webp",
+      "sha256": "b3a894904c943611c06a180690b3254416eb88e23250409c5c6a0332ad45ff83",
+      "size": 13806,
+      "mime": "image/webp"
+    },
+    "thumbs/08.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/08.webp",
+      "sha256": "cc1eff73adfe153c7e222494291e2fdf807d35a7ffd99f63351d2d187b699fd7",
+      "size": 8084,
+      "mime": "image/webp"
+    },
+    "thumbs/11.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/11.webp",
+      "sha256": "675e94c74258dfd6bad59b3c074b0ae67a017aba1d817f92103e932e126f863f",
+      "size": 12208,
+      "mime": "image/webp"
+    },
+    "thumbs/12.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/12.webp",
+      "sha256": "0cdae961b91d3ed2ae785f87a5a31ff1366fe5b60be66a41cb8a9d6cf8478d3f",
+      "size": 4902,
+      "mime": "image/webp"
+    },
+    "thumbs/13.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/13.webp",
+      "sha256": "ad3fc0f06d442d72d82e13d02182cc2db402526ef2fc9fb5752230bcbda08ba6",
+      "size": 8428,
+      "mime": "image/webp"
+    },
+    "thumbs/14.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/14.webp",
+      "sha256": "a4b91f51b7a5e345a81ff51dfe12a823be6b97928d6a663309e690b642dac2ba",
+      "size": 11858,
+      "mime": "image/webp"
+    },
+    "thumbs/15.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/15.webp",
+      "sha256": "ef90aabd79d734cc6a12926fa7ac8aa6841cb0c5504bb74274fee79d0f97a4a4",
+      "size": 14120,
+      "mime": "image/webp"
+    },
+    "thumbs/17.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/17.webp",
+      "sha256": "f53ffd86cce42d29c6f6e254e9a95796d4f6d2f1e5047835195e3824dce66b5c",
+      "size": 9742,
+      "mime": "image/webp"
+    },
+    "thumbs/18.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/18.webp",
+      "sha256": "9dd0d941f5eb32e5d6f7034bb9b5c521c904ed53efc81b32f1d8e2a0c99708d6",
+      "size": 5698,
+      "mime": "image/webp"
+    },
+    "thumbs/19.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/19.webp",
+      "sha256": "bdf22bd59b0448ac259342d0b42e701ad71ca504e0cfe47cf5a4a01b829fc4ad",
+      "size": 9410,
+      "mime": "image/webp"
+    },
+    "thumbs/20.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/20.webp",
+      "sha256": "7e6e02c2e435173237f4d29e28140beb44631fc4a6c0c72336566b21da8a20b6",
+      "size": 3498,
+      "mime": "image/webp"
+    },
+    "thumbs/21.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/21.webp",
+      "sha256": "df40523b848c2c923fb6c71e4cd1ca7ef05b803d43c598c1b784fb352a03d3f1",
+      "size": 8072,
+      "mime": "image/webp"
+    },
+    "thumbs/22.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/22.webp",
+      "sha256": "85fc724c8e4bbb5d09cb473bb396d89cbdc3a53f3a45ac3942fefe68f0b190d0",
+      "size": 3676,
+      "mime": "image/webp"
+    },
+    "thumbs/23.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/23.webp",
+      "sha256": "0d76d96fdeffb7a7bafd370e3ee2d1af6d8b9a677d6f0f9e963deba42a0f837e",
+      "size": 4796,
+      "mime": "image/webp"
+    },
+    "thumbs/24.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/24.webp",
+      "sha256": "fe00cae9b391cd466ad12c3c20c176235fb09f4a9c4ca31896c3d30de2d630ea",
+      "size": 5782,
+      "mime": "image/webp"
+    },
+    "thumbs/25.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/25.webp",
+      "sha256": "2ba4197027231d310db517c607a7f1af136384441de05dc963ad8ee417d41e11",
+      "size": 4216,
+      "mime": "image/webp"
+    },
+    "thumbs/26.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/26.webp",
+      "sha256": "a6dc8ac9f28ec6350314afa974911f1bb2759d6550ef28928c9fc05fef4abcf2",
+      "size": 12178,
+      "mime": "image/webp"
+    },
+    "thumbs/27.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/27.webp",
+      "sha256": "dfb5fe805b1f13e92b5977b08efaade424a4872bac1c23a2d5ae71aa1ef09a65",
+      "size": 8420,
+      "mime": "image/webp"
+    },
+    "thumbs/28.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/28.webp",
+      "sha256": "6a89000a022c7af35a03decdeb071ce86a563727aa336cb0715bed426ced4cc8",
+      "size": 8702,
+      "mime": "image/webp"
+    },
+    "thumbs/29.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/29.webp",
+      "sha256": "450dc950d46187e00019eacec00c0da79e1a4e7496d3cefdfdeef9a78775c4ee",
+      "size": 9744,
+      "mime": "image/webp"
+    },
+    "thumbs/30.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/30.webp",
+      "sha256": "3d77e5fa5288cea37b51ede07f129d932f2fe57485e434a7554253517a7967ae",
+      "size": 10666,
+      "mime": "image/webp"
+    },
+    "thumbs/31.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/31.webp",
+      "sha256": "1dbc48cccaa3930345389757eea82a3cd246b60cb9e4e38ceabd696a1d53a9c2",
+      "size": 10888,
+      "mime": "image/webp"
+    },
+    "thumbs/32.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/32.webp",
+      "sha256": "b46760956f568d3cd0bad9ebaf5787cb5be107f08521f8d3a16bfcfc84c9b9db",
+      "size": 12090,
+      "mime": "image/webp"
+    },
+    "thumbs/33.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/33.webp",
+      "sha256": "5d3ce183430511303632a0c91a7ee2834ed505705b2d4d2084d82661ae141014",
+      "size": 7260,
+      "mime": "image/webp"
+    },
+    "thumbs/34.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/34.webp",
+      "sha256": "0bf7efc2afa7f6ed337368af4d0fd980abd954482381c3c0a7540674a136507f",
+      "size": 16394,
+      "mime": "image/webp"
+    },
+    "thumbs/35.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/35.webp",
+      "sha256": "6962b76462265d433b74e8f4630f1ddccd8f06250b02ee56a1ee742e622f1981",
+      "size": 12162,
+      "mime": "image/webp"
+    },
+    "thumbs/36.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/36.webp",
+      "sha256": "fbd6d4f9ee2925b94a4a1581fa8c03e06701aa4b43bf4c503850e480996bc3e5",
+      "size": 10954,
+      "mime": "image/webp"
+    },
+    "thumbs/37.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/37.webp",
+      "sha256": "0677b91f11d8c3d7aedfd71c24bc3f779a66fa8f29ea3417494b842aee2a1225",
+      "size": 14116,
+      "mime": "image/webp"
+    },
+    "thumbs/38.webp": {
+      "url": "https://game-pages.github.io/lo-game-assets/releases/afeb486e56e26c9bfe76/thumbs/38.webp",
+      "sha256": "81961589427e6905542c901c427edf1551d85a1575bca5eaaec23f7ed49d9d5c",
+      "size": 14516,
+      "mime": "image/webp"
+    }
+  },
+  "pairs": 33,
+  "count": 99,
+  "bytes": 5542896
+}
